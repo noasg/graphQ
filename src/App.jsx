@@ -34,7 +34,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex flex-col items-center p-6 bg-gray-50">
       <h1 className="text-2xl font-bold mb-6 text-blue-600">
-        Countries ({data.countries.length})
+        Countries #2({data.countries.length})
       </h1>
 
       <ul className="space-y-2 w-full max-w-md">
@@ -83,7 +83,7 @@ export default function App() {
           className="mt-6 px-6 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition"
           onClick={() => setVisibleCount((count) => count + 5)}
         >
-          Load More ⬇️
+          Load222 More ⬇️
         </button>
       )}
     </div>
