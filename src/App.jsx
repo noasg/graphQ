@@ -34,7 +34,7 @@ export default function App() {
   return (
     <div className="min-h-screen flex flex-col items-center p-6 bg-gray-50">
       <h1 className="text-2xl font-bold mb-6 text-blue-600">
-        Countries for Adina({data.countries.length})
+        Countries for Adina11({data.countries.length})
       </h1>
 
       <ul className="space-y-2 w-full max-w-md">
